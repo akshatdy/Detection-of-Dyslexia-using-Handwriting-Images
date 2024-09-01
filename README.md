@@ -1,6 +1,5 @@
-# Detection_of_Dyslexia_using_handwriting_images
-
-# Problem Statement :  
+# Detection-of-Dyslexia-using-Handwriting-Images
+## Problem Statement :  
   Dyslexia poses significant challenges for individuals, impacting their ability to recognize words accurately 
   and fluently, as well as their spelling and decoding skills. Detecting dyslexia early is essential for effective 
   management and reducing its impact on academic and social growth. However, traditional screening 
@@ -14,14 +13,14 @@
   educators and healthcare professionals with a valuable resource for early intervention, ultimately 
   improving outcomes for individuals with dyslexia. 
 
-# Structure
+## Structure
 ![image](https://github.com/abhinit110/Detection_of_Dyslexia_using_handwriting_images/assets/69039435/508a91ac-d2c4-4f8a-beb5-34c7f5080c8e)
 
-# Results
+## Results
 ![image](https://github.com/abhinit110/Detection_of_Dyslexia_using_handwriting_images/assets/69039435/36aea45e-5a17-4970-a856-90898359c925)
 
 
-# Conclusion 
+## Conclusion 
   In our study on dyslexia detection, we evaluated three classifiers: Artificial Neural Network (ANN), 
   Decision Tree, and Support Vector Classifier (SVC), utilizing different feature sets derived from either 
   images or converted text. Notably, classifiers trained on image-based features outperformed those 
