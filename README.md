@@ -14,10 +14,12 @@
   improving outcomes for individuals with dyslexia. 
 
 ## Structure
-![image](https://github.com/user-attachments/assets/fef4ae15-f9c1-4bf1-a1bc-59a46aea45fa)
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7e9fc1d5-6426-4e22-9736-c20998b239b5">
+
 
 ## Results
-![image](https://github.com/user-attachments/assets/5bffd2f5-d89e-4385-88ad-28e15b7d2fe6)
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/87f00165-aee3-4172-97d3-10aa3ed99948">
+
 
 ## Conclusion 
   In our study on dyslexia detection, we evaluated three classifiers: Artificial Neural Network (ANN), 
