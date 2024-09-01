@@ -14,11 +14,10 @@
   improving outcomes for individuals with dyslexia. 
 
 ## Structure
-![image](https://github.com/abhinit110/Detection_of_Dyslexia_using_handwriting_images/assets/69039435/508a91ac-d2c4-4f8a-beb5-34c7f5080c8e)
+![image](https://github.com/user-attachments/assets/fef4ae15-f9c1-4bf1-a1bc-59a46aea45fa)
 
 ## Results
-![image](https://github.com/abhinit110/Detection_of_Dyslexia_using_handwriting_images/assets/69039435/36aea45e-5a17-4970-a856-90898359c925)
-
+![image](https://github.com/user-attachments/assets/5bffd2f5-d89e-4385-88ad-28e15b7d2fe6)
 
 ## Conclusion 
   In our study on dyslexia detection, we evaluated three classifiers: Artificial Neural Network (ANN), 
