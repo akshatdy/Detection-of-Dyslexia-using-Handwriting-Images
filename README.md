@@ -1,5 +1,6 @@
-# Detection-of-Dyslexia-using-Handwriting-Images
-## Problem Statement :  
+# Detection_of_Dyslexia_using_handwriting_images
+
+# Problem Statement :  
   Dyslexia poses significant challenges for individuals, impacting their ability to recognize words accurately 
   and fluently, as well as their spelling and decoding skills. Detecting dyslexia early is essential for effective 
   management and reducing its impact on academic and social growth. However, traditional screening 
@@ -13,22 +14,12 @@
   educators and healthcare professionals with a valuable resource for early intervention, ultimately 
   improving outcomes for individuals with dyslexia. 
 
-## Structure
+# Structure
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/7e9fc1d5-6426-4e22-9736-c20998b239b5">
 
-
-## Results
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/87f00165-aee3-4172-97d3-10aa3ed99948">
+# Results
 
 
-## Conclusion 
-  In our study on dyslexia detection, we evaluated three classifiers: Artificial Neural Network (ANN), 
-  Decision Tree, and Support Vector Classifier (SVC), utilizing different feature sets derived from either 
-  images or converted text. Notably, classifiers trained on image-based features outperformed those 
-  relying on text features. The ANN achieved the highest accuracy, scoring 0.92, emphasizing the 
-  significance of image-specific features like pressure, zonal, and GLCM features in dyslexia detection. 
-  While the SVC demonstrated competency with text-derived features, achieving an accuracy of 0.75, the 
-  Decision Tree struggled with image-derived features, yielding a lower accuracy of 0.55. These findings 
-  suggest the potential of integrating both image-based and text-based features for enhanced dyslexia 
-  detection algorithms.
+# Conclusion 
+  In our study on dyslexia detection, we evaluated three classifiers—Artificial Neural Network (ANN), Decision Tree, and Support Vector Classifier (SVC)—using feature sets derived from both images and text. The results highlight the superior performance of classifiers trained on image-based features, with the ANN achieving the highest accuracy at 0.91. This underscores the importance of features like pressure, zonal, and GLCM in detecting dyslexia. The Decision Tree also performed well with image-derived features, achieving an accuracy of 0.875. Although the SVC showed competency with text-based features, its accuracy was lower at 0.85. These findings indicate that combining image-based and text-based features could further enhance dyslexia detection algorithms.
 
