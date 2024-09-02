@@ -1,4 +1,4 @@
-# Detection_of_Dyslexia_using_handwriting_images
+# Detection-of-Dyslexia-using-Handwriting-Images
 
 # Problem Statement :  
   Dyslexia poses significant challenges for individuals, impacting their ability to recognize words accurately 
@@ -18,6 +18,7 @@
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/7e9fc1d5-6426-4e22-9736-c20998b239b5">
 
 # Results
+![ipml_comparison](https://github.com/user-attachments/assets/0d8bc92a-0494-4ca3-9cbc-2358291d0525)
 
 
 # Conclusion 
